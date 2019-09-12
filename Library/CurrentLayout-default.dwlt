@@ -21,7 +21,7 @@ MonoBehaviour:
   m_ShowMode: 4
   m_Title: 
   m_RootView: {fileID: 2}
-  m_MinSize: {x: 950, y: 300}
+  m_MinSize: {x: 950, y: 544}
   m_MaxSize: {x: 10000, y: 10000}
 --- !u!114 &2
 MonoBehaviour:
@@ -45,7 +45,7 @@ MonoBehaviour:
     y: 0
     width: 1280
     height: 638
-  m_MinSize: {x: 950, y: 300}
+  m_MinSize: {x: 950, y: 544}
   m_MaxSize: {x: 10000, y: 10000}
 --- !u!114 &3
 MonoBehaviour:
@@ -114,7 +114,7 @@ MonoBehaviour:
   m_MinSize: {x: 683, y: 494}
   m_MaxSize: {x: 14004, y: 14044}
   vertical: 0
-  controlID: 125
+  controlID: 53
 --- !u!114 &6
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -389,9 +389,9 @@ MonoBehaviour:
   m_PlayAudio: 0
   m_AudioPlay: 0
   m_Position:
-    m_Target: {x: -108.28793, y: 5.7549596, z: 16.958961}
+    m_Target: {x: -108.33411, y: 5.1990166, z: 17.512365}
     speed: 2
-    m_Value: {x: -108.28793, y: 5.7549596, z: 16.958961}
+    m_Value: {x: -108.33411, y: 5.1990166, z: 17.512365}
   m_RenderMode: 0
   m_CameraMode:
     drawMode: 0
@@ -420,13 +420,13 @@ MonoBehaviour:
       speed: 2
       m_Value: 0
   m_Rotation:
-    m_Target: {x: 0.0030471687, y: -0.7582529, z: -0.0035649287, w: -0.6520177}
+    m_Target: {x: -0.08614222, y: -0.66905504, z: 0.07850847, w: -0.7340833}
     speed: 2
-    m_Value: {x: -0.0030471687, y: 0.758253, z: 0.0035649287, w: 0.6520177}
+    m_Value: {x: -0.08723892, y: -0.6689041, z: 0.07950821, w: -0.7339177}
   m_Size:
-    m_Target: 2.3077388
+    m_Target: -0.3922611
     speed: 2
-    m_Value: 2.3077388
+    m_Value: -0.092261076
   m_Ortho:
     m_Target: 0
     speed: 2
@@ -572,36 +572,36 @@ MonoBehaviour:
     m_SkipHidden: 0
     m_SearchArea: 1
     m_Folders:
-    - Assets/Stuck_Pig
+    - Assets
   m_ViewMode: 1
   m_StartGridSize: 64
   m_LastFolders:
-  - Assets/Stuck_Pig
+  - Assets
   m_LastFoldersGridSize: -1
   m_LastProjectPath: C:\Users\Scham\Documents\School\UIC\CS428\BookBookBook
   m_LockTracker:
     m_IsLocked: 0
   m_FolderTreeState:
-    scrollPos: {x: 0, y: 39}
-    m_SelectedIDs: 36330000
-    m_LastClickedID: 13110
-    m_ExpandedIDs: 00000000e62c0000f02c0000e22e00006c33000000ca9a3b
+    scrollPos: {x: 0, y: 0}
+    m_SelectedIDs: b82e0000
+    m_LastClickedID: 11960
+    m_ExpandedIDs: 00000000b82e0000c22e00001c3100000436000000ca9a3b
     m_RenameOverlay:
       m_UserAcceptedRename: 0
-      m_Name: 
-      m_OriginalName: 
+      m_Name: _TerrainAutoUpgrade
+      m_OriginalName: _TerrainAutoUpgrade
       m_EditFieldRect:
         serializedVersion: 2
         x: 0
         y: 0
         width: 0
         height: 0
-      m_UserData: 0
+      m_UserData: 13590
       m_IsWaitingForDelay: 0
       m_IsRenaming: 0
-      m_OriginalEventType: 11
+      m_OriginalEventType: 0
       m_IsRenamingFilename: 1
-      m_ClientGUIView: {fileID: 0}
+      m_ClientGUIView: {fileID: 10}
     m_SearchString: 
     m_CreateAssetUtility:
       m_EndAction: {fileID: 0}
@@ -613,7 +613,7 @@ MonoBehaviour:
     scrollPos: {x: 0, y: 0}
     m_SelectedIDs: 
     m_LastClickedID: 0
-    m_ExpandedIDs: 00000000e62c0000f02c0000e22e00006c330000
+    m_ExpandedIDs: 00000000b82e0000c22e00001c31000004360000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
