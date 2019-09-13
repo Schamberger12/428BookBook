@@ -327,9 +327,9 @@ MonoBehaviour:
   m_SceneHierarchy:
     m_TreeViewState:
       scrollPos: {x: 0, y: 0}
-      m_SelectedIDs: 
+      m_SelectedIDs: 6c2f0000
       m_LastClickedID: 0
-      m_ExpandedIDs: 24f6ffff
+      m_ExpandedIDs: 78fbffff
       m_RenameOverlay:
         m_UserAcceptedRename: 0
         m_Name: 
@@ -389,9 +389,9 @@ MonoBehaviour:
   m_PlayAudio: 0
   m_AudioPlay: 0
   m_Position:
-    m_Target: {x: -108.33411, y: 5.1990166, z: 17.512365}
+    m_Target: {x: -107.59914, y: 5.009387, z: 17.68226}
     speed: 2
-    m_Value: {x: -108.33411, y: 5.1990166, z: 17.512365}
+    m_Value: {x: -107.59914, y: 5.009387, z: 17.68226}
   m_RenderMode: 0
   m_CameraMode:
     drawMode: 0
@@ -420,11 +420,11 @@ MonoBehaviour:
       speed: 2
       m_Value: 0
   m_Rotation:
-    m_Target: {x: -0.08614222, y: -0.66905504, z: 0.07850847, w: -0.7340833}
+    m_Target: {x: -0.104502216, y: -0.5634407, z: 0.072120994, w: -0.8164003}
     speed: 2
-    m_Value: {x: 0.08614223, y: 0.6690551, z: -0.07850847, w: 0.7340833}
+    m_Value: {x: -0.103272565, y: -0.5635209, z: 0.07127219, w: -0.81651646}
   m_Size:
-    m_Target: -0.3922611
+    m_Target: 0.3922611
     speed: 2
     m_Value: -0.3922611
   m_Ortho:
@@ -572,20 +572,20 @@ MonoBehaviour:
     m_SkipHidden: 0
     m_SearchArea: 1
     m_Folders:
-    - Assets
+    - Assets/Resources
   m_ViewMode: 1
   m_StartGridSize: 64
   m_LastFolders:
-  - Assets
+  - Assets/Resources
   m_LastFoldersGridSize: -1
   m_LastProjectPath: C:\Users\Scham\Documents\School\UIC\CS428\BookBookBook
   m_LockTracker:
     m_IsLocked: 0
   m_FolderTreeState:
     scrollPos: {x: 0, y: 71}
-    m_SelectedIDs: 94300000
-    m_LastClickedID: 12436
-    m_ExpandedIDs: 00000000943000009e300000dc3200002a3c00002e3c0000383c000000ca9a3b
+    m_SelectedIDs: 1e360000
+    m_LastClickedID: 13854
+    m_ExpandedIDs: 00000000b82e0000c22e00004630000026310000ec3400002636000000ca9a3b
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -613,7 +613,7 @@ MonoBehaviour:
     scrollPos: {x: 0, y: 0}
     m_SelectedIDs: 
     m_LastClickedID: 0
-    m_ExpandedIDs: 00000000943000009e300000dc32000098370000
+    m_ExpandedIDs: 00000000b82e0000c22e00004630000026310000ec34000026360000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
