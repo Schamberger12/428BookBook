@@ -62,7 +62,6 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Assets\BrokenVector\LowPolySurvivalEssentials\Example\Scripts\AnimatedFire.cs" />
     <Compile Include="Assets\Common\Scripts\AboutManager.cs" />
     <Compile Include="Assets\Common\Scripts\AboutScreenInfo.cs" />
     <Compile Include="Assets\Common\Scripts\AmbientLightManager.cs" />
@@ -87,12 +86,14 @@
     <Compile Include="Assets\Common\Scripts\TapHandler.cs" />
     <Compile Include="Assets\Common\Scripts\TrackableSettings.cs" />
     <Compile Include="Assets\Common\Scripts\VLog.cs" />
-    <Compile Include="Assets\Island\Scripts\CharacterMovement.cs" />
-    <Compile Include="Assets\Island\Scripts\FixedTiling.cs" />
-    <Compile Include="Assets\Island\Scripts\MouseLook.cs" />
-    <Compile Include="Assets\Island\Scripts\WaterScroller.cs" />
+    <Compile Include="Assets\Objects\BrokenVector\LowPolySurvivalEssentials\Example\Scripts\AnimatedFire.cs" />
+    <Compile Include="Assets\Objects\Island\Scripts\CharacterMovement.cs" />
+    <Compile Include="Assets\Objects\Island\Scripts\FixedTiling.cs" />
+    <Compile Include="Assets\Objects\Island\Scripts\MouseLook.cs" />
+    <Compile Include="Assets\Objects\Island\Scripts\WaterScroller.cs" />
     <Compile Include="Assets\Scripts\AudioTest.cs" />
     <Compile Include="Assets\Scripts\SpokesPerson.cs" />
+    <Compile Include="Assets\TinyFire VFX\LightControl.cs" />
     <Compile Include="Assets\Vuforia\SamplesResources\AugmentationAssets\Scripts\Augmentations\Astronaut.cs" />
     <Compile Include="Assets\Vuforia\SamplesResources\AugmentationAssets\Scripts\Augmentations\Augmentation.cs" />
     <Compile Include="Assets\Vuforia\SamplesResources\AugmentationAssets\Scripts\Augmentations\Drone.cs" />
@@ -145,7 +146,7 @@
     <None Include="Assets\Vuforia\StreamingAssets\Vuforia\VuforiaMars_Object_OT.xml" />
     <None Include="Assets\Vuforia\SamplesResources\SceneAssets\ModelTargetsTrained\Shaders\Scan.shader" />
     <None Include="Assets\Vuforia\StreamingAssets\Vuforia\Lord_Of_The_Flies.xml" />
-    <None Include="Assets\Pike\Pike\Readme.txt" />
+    <None Include="Assets\Objects\Pike\Pike\Readme.txt" />
     <None Include="Assets\Common\TextMeshPro\Resources\LineBreaking Following Characters.txt" />
     <None Include="Assets\Common\TextMeshPro\Sprites\EmojiOne Attribution.txt" />
     <None Include="Assets\Common\TextMeshPro\Resources\Shaders\TMP_SDF-Mobile Masking.shader" />
@@ -154,9 +155,9 @@
     <None Include="Assets\Vuforia\SamplesResources\SceneAssets\ModelTargets\Shaders\RadialTexture.shader" />
     <None Include="Assets\Common\TextMeshPro\Resources\Shaders\TMP_SDF Overlay.shader" />
     <None Include="Assets\Common\TextMeshPro\Resources\Shaders\TMPro_Surface.cginc" />
-    <None Include="Assets\BrokenVector\LowPolyShaders\Shaders\LowPolyPBRShader.shader" />
+    <None Include="Assets\Objects\BrokenVector\LowPolyShaders\Shaders\LowPolyPBRShader.shader" />
     <None Include="Assets\Common\TextMeshPro\Resources\Shaders\TMP_SDF-Mobile Overlay.shader" />
-    <None Include="Assets\BrokenVector\LowPolyShaders\Shaders\LowPolyUnlitShader.shader" />
+    <None Include="Assets\Objects\BrokenVector\LowPolyShaders\Shaders\LowPolyUnlitShader.shader" />
     <None Include="Assets\Vuforia\StreamingAssets\Vuforia\VuforiaMars_VuMark.xml" />
     <None Include="Assets\StreamingAssets\Vuforia\Lord_Of_The_Flies.xml" />
     <None Include="Assets\Common\TextMeshPro\Resources\Shaders\TMP_Bitmap.shader" />

@@ -1,6 +1,12 @@
 Campfire from:
 	Low Poly Survival Essentials
 	by https://www.brokenvector.com/
+	at Unity Asset Store
+
+Campfire Fire & Smoke Effects from:
+	Procedural Fire
+	by ERBGAMEART 
+	at Unity Asset Store
 
 Pike from:
 	Simple Pike
@@ -16,6 +22,7 @@ Pig from:
 	Farm Animals Set
 	By Vertex Cat
 	@vertexcat on Twitter
+	
 
 Conch Shell from:
 	oliverlaric
