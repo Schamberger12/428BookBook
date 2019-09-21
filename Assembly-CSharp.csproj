@@ -92,6 +92,7 @@
     <Compile Include="Assets\Objects\Island\Scripts\MouseLook.cs" />
     <Compile Include="Assets\Objects\Island\Scripts\WaterScroller.cs" />
     <Compile Include="Assets\Scripts\AudioTest.cs" />
+    <Compile Include="Assets\Scripts\ButtonBehavior.cs" />
     <Compile Include="Assets\Scripts\SpokesPerson.cs" />
     <Compile Include="Assets\TinyFire VFX\LightControl.cs" />
     <Compile Include="Assets\Vuforia\SamplesResources\AugmentationAssets\Scripts\Augmentations\Astronaut.cs" />
@@ -141,12 +142,14 @@
     <None Include="Assets\ErbGameArt\Procedural fire\Shaders\FireSphere.shader" />
     <None Include="Assets\StreamingAssets\Vuforia\BookBook.xml" />
     <None Include="Assets\Common\TextMeshPro\Resources\Shaders\TMPro_Properties.cginc" />
+    <None Include="Assets\Star\License free.txt" />
     <None Include="Assets\Common\TextMeshPro\Resources\Shaders\TMP_Bitmap-Custom-Atlas.shader" />
     <None Include="Assets\Vuforia\StreamingAssets\Vuforia\VuforiaMars_ModelTarget360.xml" />
     <None Include="Assets\Vuforia\StreamingAssets\Vuforia\Vuforia_Motorcycle_Marslander.xml" />
     <None Include="Assets\Vuforia\StreamingAssets\Vuforia\VuforiaMars_Object_OT.xml" />
     <None Include="Assets\Vuforia\SamplesResources\SceneAssets\ModelTargetsTrained\Shaders\Scan.shader" />
     <None Include="Assets\Vuforia\StreamingAssets\Vuforia\Lord_Of_The_Flies.xml" />
+    <None Include="Assets\Star 1\License premium.txt" />
     <None Include="Assets\Objects\Pike\Pike\Readme.txt" />
     <None Include="Assets\Common\TextMeshPro\Resources\LineBreaking Following Characters.txt" />
     <None Include="Assets\Common\TextMeshPro\Sprites\EmojiOne Attribution.txt" />
@@ -164,6 +167,8 @@
     <None Include="Assets\Common\TextMeshPro\Resources\Shaders\TMP_Bitmap.shader" />
     <None Include="Assets\Common\TextMeshPro\Resources\Shaders\TMPro.cginc" />
     <None Include="Assets\Common\TextMeshPro\Resources\Shaders\TMP_SDF.shader" />
+    <None Include="Assets\Star 1\License free.txt" />
+    <None Include="Assets\Star\License premium.txt" />
     <None Include="Assets\Common\TextMeshPro\Resources\Shaders\TMP_SDF-Mobile.shader" />
     <None Include="Assets\Common\TextMeshPro\Resources\Shaders\TMP_Sprite.shader" />
     <None Include="Assets\Common\TextMeshPro\Resources\Shaders\TMP_SDF-Surface.shader" />
