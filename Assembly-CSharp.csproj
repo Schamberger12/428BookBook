@@ -138,6 +138,7 @@
     <None Include="Assets\Common\TextMeshPro\Resources\LineBreaking Leading Characters.txt" />
     <None Include="Assets\Vuforia\StreamingAssets\Vuforia\VuforiaMars_ModelTarget.xml" />
     <None Include="Assets\Vuforia\SamplesResources\SceneAssets\ModelTargetsTrained\Shaders\TimedDiffuseNoCull.shader" />
+    <None Include="Assets\ErbGameArt\Procedural fire\Shaders\FireSphere.shader" />
     <None Include="Assets\StreamingAssets\Vuforia\BookBook.xml" />
     <None Include="Assets\Common\TextMeshPro\Resources\Shaders\TMPro_Properties.cginc" />
     <None Include="Assets\Common\TextMeshPro\Resources\Shaders\TMP_Bitmap-Custom-Atlas.shader" />
